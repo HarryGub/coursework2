@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HSE RUN</string>
+    <string name="logo_first">logo_first</string>
+    <string name="key">Key</string>
+    <string name="url">http://172.20.10.2:8000/api/</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
